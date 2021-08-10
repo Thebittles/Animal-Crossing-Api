@@ -1,0 +1,12 @@
+body {
+    background-color: #292930;
+    width: 100vh;
+}
+
+h1 {
+    color: #d4d4d4;
+    margin: 10px auto;
+    background: white;
+    border-radius: 8px;
+    text-align: center;
+}

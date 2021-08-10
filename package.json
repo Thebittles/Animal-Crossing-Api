@@ -1,0 +1,31 @@
+{
+  "name": "animal-crossing-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thebittles/Animal-Crossing-Api.git"
+  },
+  "keywords": [
+    "Animal",
+    "Crossing",
+    "API"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thebittles/Animal-Crossing-Api/issues"
+  },
+  "homepage": "https://github.com/Thebittles/Animal-Crossing-Api#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
