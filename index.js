@@ -16,7 +16,7 @@ const endpoint = `https://acnhapi.com/v1/`
 
 // Routes
 app.get('/', (req, res) => {
-    res.render('home.ejs')
+    res.render('home')
 })
 
 
